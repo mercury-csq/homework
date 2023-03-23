@@ -1,3 +1,0 @@
-﻿  chessboard.cpp
-E:\programs\source\chess\chessboard.cpp(55,1): warning C4326: “main”的返回类型应为“int”而非“void”
-  chess.vcxproj -> E:\programs\source\chess\x64\Debug\chess.exe
